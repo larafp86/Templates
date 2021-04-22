@@ -1,0 +1,33 @@
+'''
+NAME
+       Template for Programs
+
+VERSION
+       1.0
+
+AUTHOR
+       Paloma Lara <palomalf86@gmail.com>
+
+DESCRIPTION
+       program functionality
+
+CATEGORY
+       an assigned category
+
+USAGE
+       program [OPTIONS]
+
+ARGUMENTS
+
+SOFTWARE REQUERIMENTS
+
+IMPUT
+
+OUTPUT
+
+CREATION DATE
+
+'''
+
+
+
